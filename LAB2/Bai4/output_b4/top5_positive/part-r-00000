@@ -1,0 +1,8 @@
+PRICES	{(giá,602),(cả,412),(hợp,320),(vụ,313),(phòng,272)}
+COMFORT	{(lòng,541),(hài,530),(khách,441),(phòng,438),(sạn,382)}
+GENERAL	{(khách,2429),(phòng,2265),(vụ,2027),(nhân,1855),(sạn,1827)}
+QUALITY	{(phòng,332),(chất,326),(lượng,312),(khách,269),(sạn,235)}
+CLEANLINESS	{(phòng,1193),(sạch,999),(tiện,553),(ốc,498),(nghi,483)}
+MISCELLANEOUS	{(khách,26),(sạn,20),(phòng,17),(không,11),(ăn,10)}
+STYLE&OPTIONS	{(sáng,93),(ăn,78),(bữa,52),(món,51),(ngon,41)}
+DESIGN&FEATURES	{(phòng,533),(đẹp,266),(sạch,234),(không,228),(khách,224)}
