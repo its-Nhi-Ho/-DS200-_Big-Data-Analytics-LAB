@@ -1,0 +1,16 @@
+==================================================
+KẾT QUẢ BÀI 2: ĐIỂM TRUNG BÌNH THEO THỂ LOẠI
+==================================================
+  Film-Noir           : 4.36 sao
+  Horror              : 4.00 sao
+  Mystery             : 4.00 sao
+  Fantasy             : 3.86 sao
+  Crime               : 3.81 sao
+  Drama               : 3.76 sao
+  Sci-Fi              : 3.73 sao
+  Action              : 3.71 sao
+  Thriller            : 3.70 sao
+  Family              : 3.67 sao
+  Adventure           : 3.63 sao
+  Biography           : 3.56 sao
+==================================================

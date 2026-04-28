@@ -1,0 +1,20 @@
+============================================================
+KẾT QUẢ BÀI 5: ĐIỂM TRUNG BÌNH THEO NGHỀ NGHIỆP
+============================================================
+  Nghề nghiệp          Điểm TB      Số lượt
+------------------------------------------------------------
+  Programmer           4.25         10 lượt
+  Designer             4.00         13 lượt
+  Student              4.00         8 lượt
+  Consultant           3.86         14 lượt
+  Nurse                3.86         11 lượt
+  Journalist           3.85         17 lượt
+  Artist               3.73         11 lượt
+  Teacher              3.70         5 lượt
+  Doctor               3.69         21 lượt
+  Lawyer               3.65         17 lượt
+  Salesperson          3.65         17 lượt
+  Accountant           3.58         6 lượt
+  Engineer             3.56         18 lượt
+  Manager              3.47         16 lượt
+============================================================

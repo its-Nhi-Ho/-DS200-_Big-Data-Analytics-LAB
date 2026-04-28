@@ -1,0 +1,32 @@
+KẾT QUẢ BÀI 3: ĐIỂM TRUNG BÌNH THEO GIỚI TÍNH
+===========================================================================
+  Tên phim                                 Gender     Điểm TB
+---------------------------------------------------------------------------
+  Lawrence of Arabia (1962)                F          3.31 sao
+  Lawrence of Arabia (1962)                M          3.55 sao
+  Psycho (1960)                            F          4.00 sao
+  The Godfather: Part II (1974)            F          3.94 sao
+  The Godfather: Part II (1974)            M          4.06 sao
+  Sunset Boulevard (1950)                  F          4.50 sao
+  Sunset Boulevard (1950)                  M          4.33 sao
+  E.T. the Extra-Terrestrial (1982)        F          3.55 sao
+  E.T. the Extra-Terrestrial (1982)        M          3.81 sao
+  The Terminator (1984)                    F          4.14 sao
+  The Terminator (1984)                    M          3.93 sao
+  Fight Club (1999)                        F          3.50 sao
+  Fight Club (1999)                        M          3.50 sao
+  The Silence of the Lambs (1991)          F          3.00 sao
+  The Silence of the Lambs (1991)          M          3.33 sao
+  The Lord of the Rings: The Fellowship of the Ring (2001) F          3.80 sao
+  The Lord of the Rings: The Fellowship of the Ring (2001) M          4.00 sao
+  The Lord of the Rings: The Return of the King (2003) F          3.90 sao
+  The Lord of the Rings: The Return of the King (2003) M          3.75 sao
+  Gladiator (2000)                         F          3.64 sao
+  Gladiator (2000)                         M          3.59 sao
+  No Country for Old Men (2007)            F          3.83 sao
+  No Country for Old Men (2007)            M          3.92 sao
+  The Social Network (2010)                F          3.67 sao
+  The Social Network (2010)                M          4.00 sao
+  Mad Max: Fury Road (2015)                F          3.32 sao
+  Mad Max: Fury Road (2015)                M          4.00 sao
+===========================================================================

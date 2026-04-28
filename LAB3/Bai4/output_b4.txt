@@ -1,0 +1,57 @@
+===========================================================================
+KẾT QUẢ BÀI 4: ĐIỂM TRUNG BÌNH THEO NHÓM TUỔI
+===========================================================================
+  Tên phim                                 Nhóm tuổi    Điểm TB
+---------------------------------------------------------------------------
+  Lawrence of Arabia (1962)                25-34        3.60 sao
+  Lawrence of Arabia (1962)                35-44        3.28 sao
+  Lawrence of Arabia (1962)                45-54        3.62 sao
+  Psycho (1960)                            25-34        4.50 sao
+  Psycho (1960)                            35-44        3.50 sao
+  The Godfather: Part II (1974)            18-24        4.00 sao
+  The Godfather: Part II (1974)            25-34        3.71 sao
+  The Godfather: Part II (1974)            35-44        4.25 sao
+  Sunset Boulevard (1950)                  18-24        4.50 sao
+  Sunset Boulevard (1950)                  25-34        4.00 sao
+  Sunset Boulevard (1950)                  35-44        4.50 sao
+  Sunset Boulevard (1950)                  45-54        4.50 sao
+  E.T. the Extra-Terrestrial (1982)        18-24        3.50 sao
+  E.T. the Extra-Terrestrial (1982)        25-34        3.58 sao
+  E.T. the Extra-Terrestrial (1982)        35-44        3.81 sao
+  E.T. the Extra-Terrestrial (1982)        45-54        4.00 sao
+  E.T. the Extra-Terrestrial (1982)        55+          3.00 sao
+  The Terminator (1984)                    18-24        4.50 sao
+  The Terminator (1984)                    25-34        4.10 sao
+  The Terminator (1984)                    35-44        4.00 sao
+  The Terminator (1984)                    45-54        4.17 sao
+  The Terminator (1984)                    55+          3.75 sao
+  Fight Club (1999)                        25-34        3.50 sao
+  Fight Club (1999)                        35-44        3.50 sao
+  Fight Club (1999)                        45-54        3.50 sao
+  The Silence of the Lambs (1991)          25-34        3.00 sao
+  The Silence of the Lambs (1991)          35-44        3.00 sao
+  The Silence of the Lambs (1991)          45-54        3.33 sao
+  The Lord of the Rings: The Fellowship of the Ring (2001) 18-24        4.00 sao
+  The Lord of the Rings: The Fellowship of the Ring (2001) 25-34        4.00 sao
+  The Lord of the Rings: The Fellowship of the Ring (2001) 35-44        3.69 sao
+  The Lord of the Rings: The Fellowship of the Ring (2001) 45-54        4.12 sao
+  The Lord of the Rings: The Return of the King (2003) 25-34        3.83 sao
+  The Lord of the Rings: The Return of the King (2003) 35-44        3.75 sao
+  The Lord of the Rings: The Return of the King (2003) 45-54        4.00 sao
+  Gladiator (2000)                         18-24        3.50 sao
+  Gladiator (2000)                         25-34        3.42 sao
+  Gladiator (2000)                         35-44        3.75 sao
+  Gladiator (2000)                         45-54        3.88 sao
+  Gladiator (2000)                         55+          3.00 sao
+  No Country for Old Men (2007)            18-24        3.50 sao
+  No Country for Old Men (2007)            25-34        3.83 sao
+  No Country for Old Men (2007)            35-44        3.75 sao
+  No Country for Old Men (2007)            45-54        4.38 sao
+  No Country for Old Men (2007)            55+          3.50 sao
+  The Social Network (2010)                25-34        4.00 sao
+  The Social Network (2010)                35-44        3.50 sao
+  The Social Network (2010)                45-54        4.00 sao
+  Mad Max: Fury Road (2015)                18-24        3.00 sao
+  Mad Max: Fury Road (2015)                25-34        3.40 sao
+  Mad Max: Fury Road (2015)                35-44        3.64 sao
+===========================================================================
