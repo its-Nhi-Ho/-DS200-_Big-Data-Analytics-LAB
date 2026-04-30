@@ -18,17 +18,13 @@ def get_age_group(age):
     """Phân loại tuổi thành nhóm"""
     age = int(age)
     if age < 18:
-        return "Dưới 18"
-    elif age < 25:
-        return "18-24"
+        return "0 - 18"
     elif age < 35:
-        return "25-34"
-    elif age < 45:
-        return "35-44"
-    elif age < 55:
-        return "45-54"
+        return "18 - 35"
+    elif age < 50:
+        return "35 -50"
     else:
-        return "55+"
+        return "50+"
 
 def extract_user_agegroup(parts):
     """Trả về (UserID, AgeGroup)"""
@@ -37,8 +33,7 @@ def extract_user_agegroup(parts):
     return (user_id, age_group)
 
 def extract_rating_info(parts):
-    """Trả về (UserID, (MovieID, Rating))"""
-    return (parts[0], (parts[1], float(parts[2])))
+    return (parts[0].strip(), (parts[1].strip(), float(parts[2])))
 
 def attach_age_group(record):
     """
@@ -63,17 +58,18 @@ def get_sort_key(record):
 # Tạo map UserID -> AgeGroup
 users_rdd = sc.textFile("users.txt")
 age_group_dict = users_rdd.map(parse_line) \
-                          .map(extract_user_agegroup) \
-                          .collectAsMap()
+    .filter(lambda x: len(x) >= 3) \
+    .map(extract_user_agegroup) \
+    .collectAsMap()
 
 age_group_broadcast = sc.broadcast(age_group_dict)
 
 # Tạo map MovieID -> MovieTitle
 movies_rdd = sc.textFile("movies.txt")
-movie_title_dict = movies_rdd.map(parse_line) \
-                             .map(lambda parts: (parts[0], parts[1])) \
-                             .collectAsMap()
 
+movie_title_dict = movies_rdd.map(parse_line) \
+    .map(lambda parts: (parts[0].strip(), parts[1].strip())) \
+    .collectAsMap()
 movie_title_broadcast = sc.broadcast(movie_title_dict)
 
 # Đọc ratings, gán nhóm tuổi

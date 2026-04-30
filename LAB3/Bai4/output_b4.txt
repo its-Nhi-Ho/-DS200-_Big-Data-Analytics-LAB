@@ -3,55 +3,86 @@ KẾT QUẢ BÀI 4: ĐIỂM TRUNG BÌNH THEO NHÓM TUỔI
 ===========================================================================
   Tên phim                                 Nhóm tuổi    Điểm TB
 ---------------------------------------------------------------------------
-  Lawrence of Arabia (1962)                25-34        3.60 sao
-  Lawrence of Arabia (1962)                35-44        3.28 sao
-  Lawrence of Arabia (1962)                45-54        3.62 sao
-  Psycho (1960)                            25-34        4.50 sao
-  Psycho (1960)                            35-44        3.50 sao
-  The Godfather: Part II (1974)            18-24        4.00 sao
-  The Godfather: Part II (1974)            25-34        3.71 sao
-  The Godfather: Part II (1974)            35-44        4.25 sao
-  Sunset Boulevard (1950)                  18-24        4.50 sao
-  Sunset Boulevard (1950)                  25-34        4.00 sao
-  Sunset Boulevard (1950)                  35-44        4.50 sao
-  Sunset Boulevard (1950)                  45-54        4.50 sao
-  E.T. the Extra-Terrestrial (1982)        18-24        3.50 sao
-  E.T. the Extra-Terrestrial (1982)        25-34        3.58 sao
-  E.T. the Extra-Terrestrial (1982)        35-44        3.81 sao
-  E.T. the Extra-Terrestrial (1982)        45-54        4.00 sao
-  E.T. the Extra-Terrestrial (1982)        55+          3.00 sao
-  The Terminator (1984)                    18-24        4.50 sao
-  The Terminator (1984)                    25-34        4.10 sao
-  The Terminator (1984)                    35-44        4.00 sao
-  The Terminator (1984)                    45-54        4.17 sao
-  The Terminator (1984)                    55+          3.75 sao
-  Fight Club (1999)                        25-34        3.50 sao
-  Fight Club (1999)                        35-44        3.50 sao
-  Fight Club (1999)                        45-54        3.50 sao
-  The Silence of the Lambs (1991)          25-34        3.00 sao
-  The Silence of the Lambs (1991)          35-44        3.00 sao
-  The Silence of the Lambs (1991)          45-54        3.33 sao
-  The Lord of the Rings: The Fellowship of the Ring (2001) 18-24        4.00 sao
-  The Lord of the Rings: The Fellowship of the Ring (2001) 25-34        4.00 sao
-  The Lord of the Rings: The Fellowship of the Ring (2001) 35-44        3.69 sao
-  The Lord of the Rings: The Fellowship of the Ring (2001) 45-54        4.12 sao
-  The Lord of the Rings: The Return of the King (2003) 25-34        3.83 sao
-  The Lord of the Rings: The Return of the King (2003) 35-44        3.75 sao
-  The Lord of the Rings: The Return of the King (2003) 45-54        4.00 sao
-  Gladiator (2000)                         18-24        3.50 sao
-  Gladiator (2000)                         25-34        3.42 sao
-  Gladiator (2000)                         35-44        3.75 sao
-  Gladiator (2000)                         45-54        3.88 sao
-  Gladiator (2000)                         55+          3.00 sao
-  No Country for Old Men (2007)            18-24        3.50 sao
-  No Country for Old Men (2007)            25-34        3.83 sao
-  No Country for Old Men (2007)            35-44        3.75 sao
-  No Country for Old Men (2007)            45-54        4.38 sao
-  No Country for Old Men (2007)            55+          3.50 sao
-  The Social Network (2010)                25-34        4.00 sao
-  The Social Network (2010)                35-44        3.50 sao
-  The Social Network (2010)                45-54        4.00 sao
-  Mad Max: Fury Road (2015)                18-24        3.00 sao
-  Mad Max: Fury Road (2015)                25-34        3.40 sao
-  Mad Max: Fury Road (2015)                35-44        3.64 sao
+  Toy Story (1995)                         18 - 35      4.00 sao
+  Toy Story (1995)                         35 -50       4.50 sao
+  The Shawshank Redemption (1994)          18 - 35      4.00 sao
+  Back to the Future (1985)                18 - 35      4.00 sao
+  Gladiator (2000)                         18 - 35      3.00 sao
+  Gladiator (2000)                         35 -50       3.50 sao
+  Braveheart (1995)                        18 - 35      4.00 sao
+  Braveheart (1995)                        35 -50       4.50 sao
+  Jurassic Park (1993)                     18 - 35      4.00 sao
+  The Departed (2006)                      18 - 35      2.00 sao
+  The Departed (2006)                      35 -50       4.50 sao
+  The Silence of the Lambs (1991)          18 - 35      3.50 sao
+  The Silence of the Lambs (1991)          35 -50       3.50 sao
+  Saving Private Ryan (1998)               18 - 35      4.00 sao
+  Saving Private Ryan (1998)               35 -50       4.00 sao
+  Avatar (2009)                            18 - 35      4.50 sao
+  Avatar (2009)                            35 -50       5.00 sao
+  Interstellar (2014)                      18 - 35      3.50 sao
+  Interstellar (2014)                      35 -50       3.50 sao
+  The Prestige (2006)                      18 - 35      4.00 sao
+  The Prestige (2006)                      35 -50       4.00 sao
+  The Avengers (2012)                      18 - 35      3.75 sao
+  Memento (2000)                           18 - 35      4.50 sao
+  Memento (2000)                           35 -50       3.50 sao
+  The Green Mile (1999)                    18 - 35      4.00 sao
+  The Green Mile (1999)                    35 -50       3.00 sao
+  The Matrix (1999)                        18 - 35      3.75 sao
+  The Lord of the Rings: The Fellowship of the Ring (2001) 18 - 35      4.00 sao
+  The Lord of the Rings: The Fellowship of the Ring (2001) 35 -50       4.50 sao
+  The Lord of the Rings: The Two Towers (2002) 18 - 35      3.00 sao
+  The Lord of the Rings: The Two Towers (2002) 35 -50       4.50 sao
+  The Lord of the Rings: The Return of the King (2003) 18 - 35      3.50 sao
+  Fight Club (1999)                        18 - 35      4.25 sao
+  Se7en (1995)                             18 - 35      3.75 sao
+  The Usual Suspects (1995)                18 - 35      4.25 sao
+  Schindler's List (1993)                  18 - 35      4.50 sao
+  Schindler's List (1993)                  50+          4.00 sao
+  American Beauty (1999)                   18 - 35      4.50 sao
+  American Beauty (1999)                   35 -50       3.00 sao
+  Good Will Hunting (1997)                 18 - 35      4.00 sao
+  Good Will Hunting (1997)                 35 -50       3.00 sao
+  The Social Network (2010)                18 - 35      4.00 sao
+  The Social Network (2010)                35 -50       3.50 sao
+  Slumdog Millionaire (2008)               18 - 35      4.00 sao
+  Slumdog Millionaire (2008)               35 -50       4.50 sao
+  Whiplash (2014)                          18 - 35      3.00 sao
+  Whiplash (2014)                          35 -50       4.50 sao
+  La La Land (2016)                        18 - 35      3.00 sao
+  La La Land (2016)                        35 -50       5.00 sao
+  Inception (2010)                         18 - 35      3.75 sao
+  Mad Max: Fury Road (2015)                18 - 35      4.00 sao
+  The Revenant (2015)                      18 - 35      3.50 sao
+  The Dark Knight (2008)                   18 - 35      3.00 sao
+  The Dark Knight (2008)                   50+          4.00 sao
+  Gravity (2013)                           18 - 35      4.50 sao
+  Gravity (2013)                           35 -50       4.00 sao
+  The Wolf of Wall Street (2013)           18 - 35      4.50 sao
+  The Wolf of Wall Street (2013)           35 -50       4.00 sao
+  Birdman (2014)                           18 - 35      3.00 sao
+  Pulp Fiction (1994)                      18 - 35      4.00 sao
+  The Big Short (2015)                     18 - 35      4.50 sao
+  Manchester by the Sea (2016)             18 - 35      4.50 sao
+  Manchester by the Sea (2016)             35 -50       3.50 sao
+  Moonlight (2016)                         18 - 35      4.00 sao
+  Moonlight (2016)                         35 -50       3.00 sao
+  Spotlight (2015)                         18 - 35      4.00 sao
+  Spotlight (2015)                         35 -50       4.50 sao
+  The Imitation Game (2014)                18 - 35      3.00 sao
+  The Imitation Game (2014)                35 -50       4.50 sao
+  Forrest Gump (1994)                      18 - 35      5.00 sao
+  Forrest Gump (1994)                      35 -50       2.50 sao
+  Dunkirk (2017)                           18 - 35      3.50 sao
+  Coco (2017)                              18 - 35      4.25 sao
+  Parasite (2019)                          18 - 35      4.00 sao
+  Parasite (2019)                          35 -50       4.00 sao
+  The Godfather (1972)                     18 - 35      3.50 sao
+  Titanic (1997)                           18 - 35      3.00 sao
+  Titanic (1997)                           35 -50       4.00 sao
+  Star Wars: A New Hope (1977)             18 - 35      3.00 sao
+  Star Wars: A New Hope (1977)             35 -50       4.00 sao
+  The Lion King (1994)                     18 - 35      3.50 sao
+  The Lion King (1994)                     35 -50       4.50 sao
 ===========================================================================
